@@ -1,0 +1,21 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Untagged - 标签 - isCarver&#39;Blog</title>
+        <link>https://example.com/tags/untagged/</link>
+        <description>Untagged - 标签 - isCarver&#39;Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>iscarver@foxmail.com (carver)</managingEditor>
+            <webMaster>iscarver@foxmail.com (carver)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 16 Dec 2019 21:38:04 &#43;0800</lastBuildDate><atom:link href="https://example.com/tags/untagged/" rel="self" type="application/rss+xml" /><item>
+    <title>My First Post</title>
+    <link>https://example.com/content_type/test2/</link>
+    <pubDate>Mon, 16 Dec 2019 21:38:04 &#43;0800</pubDate>
+    <author>carver</author>
+    <guid>https://example.com/content_type/test2/</guid>
+    <description><![CDATA[<p>Quisque velit nisi, pretium ut lacinia in, elementum id enim. Vivamus suscipit tortor eget felis porttitor
+volutpat. Donec rutrum congue leo eget malesuada. Nulla porttitor accumsan tincidunt. Praesent sapien
+massa, convallis a pellentesque nec, egestas non nisi. Curabitur arcu erat, accumsan id imperdiet et,
+porttitor at sem. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vivamus magna justo,
+lacinia eget consectetur sed, convallis at tellus. Pellentesque in ipsum id orci porta dapibus. Vivamus
+magna justo, lacinia eget consectetur sed, convallis at tellus.</p>]]></description>
+</item>
+</channel>
+</rss>

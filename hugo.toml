@@ -61,7 +61,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
     post = ""
     name = "Posts"
-    url = "/posts/"
+    url = "/content/posts/"
     # title will be shown when you hover on this menu link
     # 当您将鼠标悬停在此菜单链接上时, 将显示标题
     title = ""
@@ -283,13 +283,14 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       enable = true
       # special amount of posts in each home posts page
       # 主页每页显示文章数量
-      paginate = 6
+      paginate = 10
   # Social config in home page
   # 主页的社交信息设置
   [params.social]
-    GitHub = ""
-    Bilibili = "www.bilibili.com"
-    Email = ""
+      GitHub = "Carver-coder"
+      Bilibili = "398429592"
+      Email = "iscarver@foxmail.com"
+      RSS = true
     
 
   # Page global config
@@ -731,7 +732,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         pre = ""
         post = ""
         name = "Posts"
-        url = "/posts/"
+        url = "/content/posts/"
         title = ""
       [[languages.en.menu.main]]
         weight = 2
@@ -755,7 +756,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         pre = ""
         post = ""
         name = "Docs"
-        url = "/categories/documentation/"
+        url = "/content/documentation/"
         title = ""
       [[languages.en.menu.main]]
         weight = 5
@@ -827,7 +828,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         pre = ""
         post = ""
         name = "所有文章"
-        url = "/posts/"
+        url = "/content/posts/"
         title = ""
       [[languages.zh-cn.menu.main]]
         weight = 2
@@ -850,7 +851,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         identifier = "documentation"
         pre = ""
         name = "文档"
-        url = "/categories/documentation/"
+        url = "/content/documentation/"
         title = ""
       [[languages.zh-cn.menu.main]]
         weight = 5
