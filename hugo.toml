@@ -71,7 +71,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     pre = ""
     post = ""
     name = "Tags"
-    url = "/tags/"
+    url = "/content/tags/"
     title = ""
   [[menu.main]]
     weight = 3
@@ -79,7 +79,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     pre = ""
     post = ""
     name = "Categories"
-    url = "/categories/"
+    url = "/content/categories/"
     title = ""
 
 [params]
@@ -740,7 +740,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         pre = ""
         post = ""
         name = "Tags"
-        url = "/tags/"
+        url = "/content/tags/"
         title = ""
       [[languages.en.menu.main]]
         weight = 3
@@ -748,7 +748,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         pre = ""
         post = ""
         name = "Categories"
-        url = "/categories/"
+        url = "/content/categories/"
         title = ""
       [[languages.en.menu.main]]
         weight = 4
@@ -764,7 +764,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         pre = ""
         post = ""
         name = "About"
-        url = "/about/"
+        url = "/content/about/"
         title = ""
       [[languages.en.menu.main]]
         weight = 6
@@ -836,7 +836,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         pre = ""
         post = ""
         name = "标签"
-        url = "/tags/"
+        url = "/content/tags/"
         title = ""
       [[languages.zh-cn.menu.main]]
         weight = 3
@@ -844,7 +844,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         pre = ""
         post = ""
         name = "分类"
-        url = "/categories/"
+        url = "/content/categories/"
         title = ""
       [[languages.zh-cn.menu.main]]
         weight = 4
@@ -859,7 +859,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         pre = ""
         post = ""
         name = "关于"
-        url = "/about/"
+        url = "/content/about/"
         title = ""
       [[languages.zh-cn.menu.main]]
         weight = 6
