@@ -1,0 +1,16 @@
+// 文章容器居中
+.post-content {
+  max-width: 100px; // 可选：设置内容最大宽度
+  margin-left: auto;
+  margin-right: auto;
+}
+
+// 标题居中（可选）
+.post-title {
+  text-align: center;
+}
+
+// 元数据居中（可选）
+.post-meta {
+  justify-content: center;
+}
