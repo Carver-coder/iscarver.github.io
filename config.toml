@@ -1,1 +1,4 @@
 theme = LoveIt
+
+[params]
+  customCSS = ["css/custom.css"]
